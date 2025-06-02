@@ -7,4 +7,4 @@ metadata:
 spec:
   server:
     service:
-      type: NodePort
+      type: 3000
